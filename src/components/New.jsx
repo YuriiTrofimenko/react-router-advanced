@@ -1,10 +1,10 @@
 import React from 'react'
-function About() {
+function New() {
   return (
     <div>
-      <h1>About</h1>
+        <h1>New</h1>
     </div>
   );
 }
 
-export default About;
+export default New;
